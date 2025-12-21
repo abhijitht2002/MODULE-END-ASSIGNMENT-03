@@ -44,8 +44,8 @@ crm-backend/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/crm-backend.git
-cd crm-backend
+git clone https://github.com/abhijitht2002/MODULE-END-ASSIGNMENT-03.git
+cd MODULE-END-ASSIGNMENT-03
 ```
 
 ### Step 2: Install Dependencies
@@ -67,5 +67,6 @@ JWT_SECRET=your_jwt_secret
 ```bash
 npm run dev
 ```
+
 
 
